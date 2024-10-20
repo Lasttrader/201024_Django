@@ -5,6 +5,8 @@ from sklearn.preprocessing import LabelEncoder, MinMaxScaler
 from sklearn.neighbors import KNeighborsClassifier
 from flask import (Flask, jsonify)
 print('import success')
+print('Ratmir')
+print('Ratmir_1')
 
 #load_models
 #le
