@@ -83,3 +83,6 @@ print(prediction)
 #result
 result = y_LE.inverse_transform(prediction)
 print('Выдавать клиентский договор? Ответ - ', result)
+
+if __name__ == "__main__":
+    app.run()
