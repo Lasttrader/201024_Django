@@ -1,3 +1,4 @@
+print("Константин")
 #import
 import pickle 
 from sklearn.preprocessing import LabelEncoder, MinMaxScaler
